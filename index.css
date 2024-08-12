@@ -24,25 +24,15 @@ header img {
     border: 5px solid rgb(130, 0, 196);
 }
 
-.classic {
-    margin: 30px;
-    width: 700px;
-    height: 400px;
-    position: absolute; 
-    top: 50%; 
-    left: 50%; 
-    transform: translate(-50%, -50%)
+img {
+    width: 50%;
+    align-items: center;
+    justify-content: center;
 }
 
-.projetos {
+
+.conteudo {
     text-align: center;
-   
-}
-
-.pro {
-    margin-top: 20px;
-    padding: 20px;
-    
 }
 
 h1, h2, h3, p, label{
